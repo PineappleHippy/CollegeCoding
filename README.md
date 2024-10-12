@@ -1,2 +1,3 @@
 # CollegeCoding
-The Learning Curve of Me.
+The learning curve of me.
+Brought to you by me!
