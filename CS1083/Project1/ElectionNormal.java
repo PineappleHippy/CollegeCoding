@@ -62,7 +62,8 @@ public class ElectionNormal {
 
 // Section 4: Print the Table!
 // Section 4.a: Print the table Header
-      System.out.printf("%-10s %-10s %-10s %-10s %-10s %-10s %-10s %-10s %-10s\n","Week", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "Total/Week");
+      System.out.printf("%-10s%-10s%-10s%-10s%-10s%-10s%-10s%-10s%-10s\n",
+              "Week", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "Total/Week");
 
 // Section 4.b: Print the weekly percentages
       //start going through the weeks:
