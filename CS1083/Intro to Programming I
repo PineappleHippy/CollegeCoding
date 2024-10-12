@@ -1,0 +1,9 @@
+Learning Goals
+At the end of the course, you will be able to:
+
+Identify programming terminology and obtain a solid grasp of the basic mechanics of programming.
+Use programming techniques to solve everyday problems.
+Determine which programming techniques are used in different type of problems.
+Write reasonably correct Java code, without the help of an IDE, so that their programming skills can be evaluated in exams.
+Write simple programs. Examples include: computing the area or volume of a shape given the formula, translating between units (e.g., miles to kilometers), counting the iterations of a while loop, taking unstructured input inside a loop and producing tabular output, or summing the values in an array.
+Show the trace the execution of code fragments, particularly simple cases such as keeping track of the values of variables through a short series of computations, including branches, loops, and method calls.
